@@ -1,0 +1,15 @@
+.ProductForm {
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+}
+
+.ProductSizeSelection {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.ProductForm__Input {
+    margin-bottom: 20px;
+}
